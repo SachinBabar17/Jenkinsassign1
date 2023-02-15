@@ -1,1 +1,1 @@
-Build is being periodicaly
+Build is being periodicaly.
